@@ -2,6 +2,5 @@
 
 echo PHP_VERSION;
 
-echo "<br>";
 
 ?>
